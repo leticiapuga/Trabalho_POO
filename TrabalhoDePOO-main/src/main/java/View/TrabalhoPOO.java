@@ -36,7 +36,7 @@ public class TrabalhoPOO {
                     break;
             }
 
-        }
+        }// TESTANDO
         scanner.close(); 
     }
 }
